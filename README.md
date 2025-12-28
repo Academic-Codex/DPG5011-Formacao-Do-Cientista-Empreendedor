@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/DPG5011-Formacao-Do-Cientista-Empreendedor">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:08.420781Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:34:38.353979Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
